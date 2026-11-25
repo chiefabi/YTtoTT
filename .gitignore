@@ -1,0 +1,23 @@
+# Nutzerdaten & grosse Dateien - niemals committen
+work/
+export/
+cta/
+models/
+*.wav
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.info.json
+# Python / IDE / Secrets
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+cookies*.txt
+.claude/
